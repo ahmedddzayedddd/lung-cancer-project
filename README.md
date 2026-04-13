@@ -1,32 +1,51 @@
-# FASTQ Dataset Preparation for Disease Classification
+# 🧬 Lung Cancer Bioinformatics Project
 
-## Project Purpose
-This project prepares a real FASTQ dataset for disease classification using public sequencing data.
-The selected biological problem is Lung Cancer vs Healthy samples.
+## 📌 Overview
+This project focuses on analyzing lung cancer sequencing data using bioinformatics tools and pipelines.
 
-## Project Structure
-lung_cancer_project/
-│
-├── data/
-├── README.md
-├── requirements.txt
-└── .gitignore
+We use publicly available datasets from NCBI and process them using tools like SRA Toolkit.
 
-## Dataset
-Healthy:
-SRR25403874
-SRR25403875
-SRR25403876
-SRR25403877
-SRR25403878
+---
 
-Cancer:
-SRR25403879
-SRR25403880
-SRR25403881
-SRR25403882
-SRR25403883
+## 📊 Dataset
+- Source: NCBI SRA Database  
+- Format: FASTQ / SRA  
+- Example Accession Numbers:
+  - SRR25403874
+  - SRR25403875
 
-## Notes
-- FASTQ files are inside data folder
-- FastQC was applied
+---
+
+## ⚙️ Tools Used
+- Python
+- SRA Toolkit
+- Bioinformatics pipelines
+
+---
+
+## 🚀 Workflow
+1. Download data from NCBI  
+2. Convert SRA → FASTQ  
+3. Analyze sequences  
+
+---
+
+## 📁 Project Structure
+lung-cancer-project/
+- data/
+- README.md
+- requirements.txt
+
+---
+
+## ⚠️ Note
+Large dataset files are not uploaded to GitHub.
+
+---
+
+## 👨‍💻 Author
+Ahmed Zayed
+yasmin hossam
+mohamed gamal
+talaat elkamony
+mahmoud reda
