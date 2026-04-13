@@ -1,0 +1,10 @@
+bioinfo_env/
+__pycache__/
+*.pyc
+*.zip
+*.html
+data/
+*.fastq
+*.sra
+sratoolkit.3.4,1-win64/
+sratoolkit.zip
