@@ -49,3 +49,10 @@ yasmin hossam
 mohamed gamal
 talaat elkamony
 ali abady
+
+
+## ⚡ Quick Start
+
+python -m venv bioinfo_env
+bioinfo_env\Scripts\activate
+pip install -r requirements.txt
