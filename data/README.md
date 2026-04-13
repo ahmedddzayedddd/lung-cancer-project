@@ -1,4 +1,20 @@
-This folder contains dataset files.
+This folder contains FASTQ dataset information.
 
-Large files (FASTQ/SRA) are ignored in GitHub.
-You can download the data from NCBI using the accession numbers.
+The dataset was downloaded from NCBI SRA.
+
+Healthy samples:
+SRR25403874
+SRR25403875
+SRR25403876
+SRR25403877
+SRR25403878
+
+Lung cancer samples:
+SRR25403879
+SRR25403880
+SRR25403881
+SRR25403882
+SRR25403883
+
+Note:
+Raw FASTQ files are stored locally and are not uploaded to GitHub due to large size
